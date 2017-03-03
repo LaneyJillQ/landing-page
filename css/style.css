@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: light;
+
+}
+section.header {
+  height: 80vh;
+  background-image: url("../img/header_bg.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+
+}
+section.header h1 {
+font-weight: extra-bold;
+font-size: 24px;
+color: white;
+margin-left: 200px;
+padding-top: 30px;
+
+
+}
+section.header p {
+  font-weight: 600;
+  font-size: 24px;
+  color: white;
+  position: absolute;
+  margin-left: 460px;
+  margin-top: 200px;
+  margin-right: 300px;
+  margin-bottom: 300px;
+
+}
+
+section.header button {
+  width: 10vw;
+  height: 5vh;
+  font-size: 14px;
+  font-weight: 800;
+  border-radius: 5px;
+  background-color: yellow;
+  position: static;
+  margin-top: 300px;
+  margin-bottom: 50px;
+  margin-left: 600px;
+}
+
+section.second h2 {
+  font-size: 20px;
+  font-style: semibold;
+  position: absolute;
+  margin-top: -75px;
+  margin-bottom: 200px;
+  margin-left: 200px;
+  margin-right: 300px;
+  font-size: 18px;
+  color: #033048
+
+}
+
+section.second h3 {
+    font-size: 20px;
+    position: absolute;
+    margin-top: 140px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    margin-right: 300px;
+    font-weight: 500;
+}
+
+section.second ul {
+  font-size: 20px;
+  position: relative;
+  margin-top: 140px;
+  margin-bottom: 200px;
+  margin-left: 200px;
+  margin-right: 300px;
+  font-weight: 500;
+
+}
+section.third {
+  height: 48vh;
+  background-image: url("../img/testimonial_bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+section.third h3 {
+  position: absolute;
+  margin-top: 160px;
+  margin-bottom: 500px;
+  margin-left: 500px;
+  margin-right: 500px;
+  color: white;
+  font-size: 18px;
+  font-style: italic;
+}
+
+section.third h4 {
+  position: absolute;
+  margin-top: 250px;
+  margin-bottom: 500px;
+  margin-left: 600px;
+  margin-right: 500px;
+  color: white;
+  font-size: 18px;
+  font-style: semibold;
+}
+
+.yellow {
+  background-color: yellow;
+  height: 100px;
+  weight: 10px;
+
+}
+
+footer {
+  background-color: black;
+  height: 300px;
+  text-align: center;
+  padding-right: 80px;
+  color: white;
+}
+
+.icons {
+  height: 30px;
+  width: 30px;
+}
+
+.above {
+  height: 14px;
+}
+
+.twitter {
+  padding-right: 0.5rem;
+}
+
+.facebook {
+  padding-left: 0.5rem;
+}
+
+p {
+  padding-top: 30px;
+}
+
+.about {
+  padding-top: 0;
+  font-size: 22px;
+  font-weight: 300;
+}
+
+.ad {
+  padding-top: 30px;
+}
+
+.a1 {
+  font-size: 24px;
+  font-weight: 300;
+}

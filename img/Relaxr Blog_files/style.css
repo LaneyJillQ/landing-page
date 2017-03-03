@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+  width: 800px;
+  margin: 0 auto;
+
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+nav ul li {
+  width: 800px;
+  margin: 0 auto;
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header {
+  background-color: #033048;
+  color: white;
+  display: flex;
+  padding: 1rem;
+  height: 4rem;
+}
+.content {
+  display: flex;
+}
+
+main {
+  width: 70%;
+}
+aside {
+  width: 30%;
+}
